@@ -4,4 +4,4 @@ I have gotten into doing some CAD work for 3D Printing. As a result, I've starte
 
 ## LICENSE
 
-Unless specified with a <FILE>.LICENSE file the content is licensed under [CC4.0-BY-SA](http://creativecommons.org/licenses/by-sa/4.0/).
+Unless specified with a `<FILE>.LICENSE` file the content is licensed under [CC4.0-BY-SA](http://creativecommons.org/licenses/by-sa/4.0/).
